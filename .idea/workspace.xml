@@ -1,7 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="11031b50-1cc5-47a8-b6fa-829b10b25b0d" name="Default Changelist" comment="" />
+    <list default="true" id="11031b50-1cc5-47a8-b6fa-829b10b25b0d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Controller/SecurityController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/security/login.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/MaSuperAgence.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/MaSuperAgence.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/5ece6cf4-f73b-4062-9058-205b4bc605ca.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/5ece6cf4-f73b-4062-9058-205b4bc605ca.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/bundles.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/bundles.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/packages/security.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config/packages/security.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/routes.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config/routes.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/symfony.lock" beforeDir="false" afterPath="$PROJECT_DIR$/symfony.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/base.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html.twig" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,6 +33,9 @@
   <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -116,6 +142,8 @@
       <path value="$PROJECT_DIR$/vendor/laminas/laminas-zendframework-bridge" />
       <path value="$PROJECT_DIR$/vendor/laminas/laminas-eventmanager" />
       <path value="$PROJECT_DIR$/vendor/cocur/slugify" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/data-fixtures" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/doctrine-fixtures-bundle" />
     </include_path>
   </component>
   <component name="ProjectId" id="1iy8Nl9ErZiYOwu8Dl3TrTauVUV" />
@@ -128,7 +156,8 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.PHP" />
+    <property name="php.override.implement.member.chooser.php.doc" value="NONE" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -146,26 +175,59 @@
       <workItem from="1603097488974" duration="2287000" />
       <workItem from="1603349260538" duration="10030000" />
       <workItem from="1603370094616" duration="4617000" />
+      <workItem from="1603378884012" duration="1767000" />
+      <workItem from="1603640866028" duration="2497000" />
+      <workItem from="1603643540403" duration="1010000" />
+      <workItem from="1603698599951" duration="6204000" />
     </task>
+    <task id="LOCAL-00001" summary="initialisation commit">
+      <created>1603378996218</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1603378996218</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initialisation commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initialisation commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="275" y="22" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602945294348">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="275" y="22" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1602945294348" />
-    <state x="476" y="73" key="#com.intellij.ide.util.MemberChooser" timestamp="1602949638615">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="1951" y="101" key="#com.intellij.ide.util.MemberChooser" timestamp="1603642299383">
+      <screen x="1366" y="0" width="1680" height="1010" />
     </state>
     <state x="476" y="73" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1602949638615" />
-    <state x="1592" y="12" key="SettingsEditor" timestamp="1602928010944">
+    <state x="1951" y="101" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728/1366.0.1680.1010@1366.0.1680.1010" timestamp="1603642299383" />
+    <state x="1592" y="12" key="SettingsEditor" timestamp="1603379099823">
       <screen x="1366" y="0" width="1680" height="1010" />
     </state>
     <state x="184" y="9" key="SettingsEditor/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1602927824611" />
-    <state x="1592" y="12" key="SettingsEditor/0.0.1366.728/1366.0.1680.1010@1366.0.1680.1010" timestamp="1602928010944" />
+    <state x="1592" y="12" key="SettingsEditor/0.0.1366.728/1366.0.1680.1010@1366.0.1680.1010" timestamp="1603379099823" />
+    <state x="1798" y="238" key="Vcs.Push.Dialog.v2" timestamp="1603379043269">
+      <screen x="1366" y="0" width="1680" height="1010" />
+    </state>
+    <state x="1798" y="238" key="Vcs.Push.Dialog.v2/0.0.1366.728/1366.0.1680.1010@1366.0.1680.1010" timestamp="1603379043269" />
     <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1602947137845">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
